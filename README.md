@@ -1,2 +1,2 @@
-# 1dEuler
+# 1d_Euler_Density
 computation the one-dimensional euler equation using density based method, FVM, Riemann solver, etc...
